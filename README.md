@@ -10,7 +10,7 @@ Here I am going to talk about the legal aspects surrounding the development of a
 
 - [What is an IP (Intellectual Property)?]
 
-     - [Importance of IP in video games]
+     - [Importance of IP laws in video games]
      - [Types of IP]
      
 
@@ -18,9 +18,9 @@ Here I am going to talk about the legal aspects surrounding the development of a
 
      - [Copyright]
      
-           - What is copyright?
-           - What can be protected by copyright?
-           - What can I do with copyright?
+         * What is copyright?
+         * What can be protected by copyright?
+         * What can I do with copyright?
            
      - [Trademark]
      - [Patent]
@@ -28,4 +28,14 @@ Here I am going to talk about the legal aspects surrounding the development of a
      
      
 #### What is an IP (Intellectual Property)?
+When we talk about the ip we refer to the creations of the mind, as inventions, symbolic names, images, sounds ... used for commercial purposes.
+##### Importance of IP laws in video games
 
+##### Types of IP
+
+In general there are two types of IP:
+  - Formal IP
+  - Informal IP
+  
+
+  
