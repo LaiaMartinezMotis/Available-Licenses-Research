@@ -6,11 +6,18 @@ Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs
 
 ### WHAT IS THIS RESEARCH ABOUT?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here I am going to talk about the legal aspects surrounding the development of a videogame
 
-```markdown
-Syntax highlighted code block
+- [What is an IP (Intellectual Property)?]
 
+     - [Importance of IP in video games]
+     - [Types of IP]
+
+- [Ways to keep safe your own IP]
+     - [Copyright]
+     - [Trademark]
+     - [Patent]
+     - [TradeSecret]
 # Header 1
 ## Header 2
 ### Header 3
