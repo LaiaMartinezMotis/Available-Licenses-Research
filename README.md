@@ -28,8 +28,11 @@ Here I am going to talk about the legal aspects surrounding the development of a
      
      
 #### What is an IP (Intellectual Property)?
-When we talk about the ip we refer to the creations of the mind, as inventions, symbolic names, images, sounds ... used for commercial purposes.
+When we talk about IP, we refere to a group of legal rights that provide protections over the things people create or invent, such as literary and artistic works, designs, symbols, names...
+
 ##### Importance of IP laws in video games
+The main purpose of the IP laws is to protect developers and their creative work, from pirates and competitors who want to take tehir work and use it without any compensation.
+IP rights are associated both with the tools used to develop games and the content included in a game.
 
 ##### Types of IP
 
