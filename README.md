@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Available Licenses
 
-You can use the [editor on GitHub](https://github.com/LaiaMartinezMotis/Available-Licenses-Research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am [Laia Martinez](https://www.linkedin.com/in/laia-martinez-motis-a01647173/), student of the [Bachelor’s Degree in
+Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### WHAT IS THIS RESEARCH ABOUT?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
