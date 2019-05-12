@@ -40,5 +40,7 @@ In general there are two types of IP:
   - Formal IP
   - Informal IP
   
-
+#### Ways to keep safe your own IP
+##### Copyright
+Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. It is an automatic right which give the creator of an original "fixed" work exclusives rights to its use and distribution, with the intention of enabling the creator of intellectual wealth to recive compensation for their work.
   
