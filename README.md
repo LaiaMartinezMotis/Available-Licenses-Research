@@ -12,9 +12,20 @@ Here I am going to talk about the legal aspects surrounding the development of a
 
      - [Importance of IP in video games]
      - [Types of IP]
+     
 
 - [Ways to keep safe your own IP]
+
      - [Copyright]
+     
+           - What is copyright?
+           - What can be protected by copyright?
+           - What can I do with copyright?
+           
      - [Trademark]
      - [Patent]
      - [TradeSecret]
+     
+     
+#### What is an IP (Intellectual Property)?
+
