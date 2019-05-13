@@ -8,23 +8,23 @@ Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs
 
 Here I am going to talk about the legal aspects surrounding the development of a videogame
 
-- [What is an IP (Intellectual Property)?]
+- What is an IP (Intellectual Property)?
 
-     - [Importance of IP laws in video games]
-     - [Types of IP]
+     - Importance of IP laws in video games
+     - Types of IP
      
 
-- [Ways to keep safe your own IP]
+- Ways to keep safe your own IP
 
-     - [Copyright]
+     - Copyright
      
          * What is copyright?
          * What can be protected by copyright?
          * What can I do with copyright?
            
-     - [Trademark]
-     - [Patent]
-     - [TradeSecret]
+     - Trademark
+     - Patent
+     - TradeSecret
      
      
 #### What is an IP (Intellectual Property)?
