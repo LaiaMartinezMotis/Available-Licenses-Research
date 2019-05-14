@@ -102,10 +102,12 @@ Patents allow you to:
 
 ##### Trade Secret
 Trade secrets can be a company’s most valuable IP asset, differentiating it from its competitors.
+It is generally defined as confidentially or closely held information which can take the form of unpatented inventions, formular, designs.... In other words, it is something a business would not want the competition to know.
 
-It is generally defined as confidentially or closely held information which can take the form of unpatented inventions, formular, designs.... In other words, it is something a business would not want the competition to know it.
-Assets which can be  considered trade secrets may include know-how databases, recipes, technical designs, software code or even pricing matrices, and must be protected via the implementation of a trade secret.
+##### What Can Be a Trade Secret?
+Any idea can be trade secretd as long as it is an idea that confers some business advantage and can be kept scret. Trade secret rights can extend to virtually any concrete information that grants a business advantage, such as formulae, data copilations, devices, process and costumers lists. 
 
+Some advantages of trade secrets are that they have no registration cost and can be protected quickly. There is no registration fee for trade secrets, but its not fairy to say that their protection is free. Every company that has a trade secret, has to make a lot of efforts to keep all of these valuable information a secret.
 
 #### Licensing IPs
 
