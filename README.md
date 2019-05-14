@@ -11,8 +11,6 @@ Here I am going to talk about the legal aspects surrounding the development of a
 - What is an IP (Intellectual Property)?
 
      - Importance of IP laws in video games
-     - Types of IP
-     
 
 - Ways to keep safe your own IP
 
@@ -24,32 +22,30 @@ Here I am going to talk about the legal aspects surrounding the development of a
            
            
      - Trademark
+         * Why are they important?
+         * Trandmark categories:
      - Patent
      - TradeSecret
+     
+- Licensing IPs
      
      
 #### What is an IP (Intellectual Property)?
 When we talk about IP, we refere to a group of legal rights that provide protections over the things people create or invent, such as literary and artistic works, designs, symbols, names...
 
 ##### Importance of IP laws in video games
-The main purpose of the IP laws is to protect developers and their creative work, from pirates and competitors who want to take tehir work and use it without any compensation.
+The main purpose of the IP laws is to protect developers and their creative work, from pirates and competitors who want to take their work and use it without any compensation.
 IP rights are associated both with the tools used to develop games and the content included in a game.
-
-##### Types of IP
-
-In general there are two types of IP:
-  - Formal IP
-  - Informal IP
   
 #### Ways to keep safe your own IP
-##### Copyright
+##### What is copyright?
 Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. 
 Is the only type of IP, that can exist without a regsitration. As soon as plans are down or code is written, copyright is present. 
 
 Even though registration is not necessary to invoke copyright, it is highliy recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
 
 
-##### What can be protected with copyright?
+##### What can be protected by copyright?
 
 * Written works: the scrips of the story, the conversations between the characters and the source code of the game.
 * Video graphic works: the game grephics and in the so-called cut scenes.
@@ -74,17 +70,45 @@ As I said, owning a trademark allows you to build brand recognition because cons
 
 That’s a problem that trademark law seeks to avoid.
 
-##### Trandmark categories?
+##### Trandmark categories:
 We divide trademarks in 5 diferent categories, depending of what you want to reflect with your mark.
 
 * Fanciful (Strongest Protection): Unique made-up names with no meaning other that the meaning a company associates with them. These are the strongest trademarks you can get.
 
-<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/fanciful%20trademark2.png?raw=true" width="300" height="250">               <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/fanciful%20trademark.png?raw=true" width="350" height="200">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/fanciful%20trademark2.png?raw=true" width="300" height="250">                                          <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/fanciful%20trademark.png?raw=true" width="350" height="200">
 
 * Arbitraty (Strongest Protection): Consist of common words or terms used for something other that its literal meaning.
+
 <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/Arbitray%20Trademark.png?raw=true" width="450" height="250">
 
 * Suggestive(Strong Protection): A suggestive mark does not immediately describe the products or its features, but may suggest or allude to them.
+
+ <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/suggestive%20trademark.jpg?raw=true" width="350" height="200">    <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/suggestive%20trademark2.jpg?raw=true" width="400" height="200"> 
+
 * Descriptive(Limited Protection): Marks thats describe a product, its characteristics, its elements or its qualities. People may be tempted to pick a brand name that descibes their company's game beacuse it will be easy for the costumers unerstant what the game is about, but that will allow the comptetidores to sell competing products with similar names.
+
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/descriptive%20trademark.jpg?raw=true" width="600" height="300">
+
 * Generic(No Protection): The term generic is the opposite of trademark and a generic term can never be converted as a trademark.
 
+##### Patents
+A patent protects new inventions and covers how things work, what they do, how they do it, what they are made of and how are they made, A patent gives you the ability to take legal action to try to stop others from copying, manufacturing, selling adn imporing your invention without your permissions.
+
+###### What can I do with it?
+Patents allow you to:
+* Sell the invention and associated intellectual property rights.
+* License the invention to someone else, but retain ownership and certain rights in the IP.
+* Discuss the invention with others in order to set up a bussines based around the invention.
+
+##### Trade Secret
+Trade secrets can be a company’s most valuable IP asset, differentiating it from its competitors.
+
+It is generally defined as confidentially or closely held information which can take the form of unpatented inventions, formular, designs.... In other words, it is something a business would not want the competition to know it.
+Assets which can be  considered trade secrets may include know-how databases, recipes, technical designs, software code or even pricing matrices, and must be protected via the implementation of a trade secret.
+
+
+#### Licensing IPs
+
+##### What is an IP licensing agreement?
+An Ip licensing agreement occurs between an IP rights owner ("licensor"), and someone who is autthorised to use the rights ("licensee") in exchange for monetary value.
+The two parties agree on the terms and conditions via negotiation, and 
