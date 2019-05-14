@@ -51,6 +51,10 @@ Even though registration is not necessary to invoke copyright, it is highliy rec
 
 ##### What can be protected with copyright?
 
+* Written works: the scrips of the story, the conversations between the characters and the source code of the game.
+* Video graphic works: the game grephics and in the so-called cut scenes.
+* Works of musical compositions: all the sound design in the game. This includes the soundtracks and sound effects.
+* Graphic works/ drawings: the sketches, conceptual art and other graphics designed for a game.
 
 ##### What rights are conferred by copyright?
 It gives the holder the right to authorize others to reproduce a work or prevent them from doing so. 
