@@ -75,7 +75,7 @@ We divide trademarks in 5 diferent categories, depending of what you want to ref
 
 * Fanciful (Strongest Protection): Unique made-up names with no meaning other that the meaning a company associates with them. These are the strongest trademarks you can get.
 
-<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/fanciful%20trademark2.png?raw=true" width="300" height="250">                                          <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/fanciful%20trademark.png?raw=true" width="350" height="200">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/fanciful%20trademark2.png?raw=true" width="300" height="250">                                         
 
 * Arbitraty (Strongest Protection): Consist of common words or terms used for something other that its literal meaning.
 
@@ -83,11 +83,11 @@ We divide trademarks in 5 diferent categories, depending of what you want to ref
 
 * Suggestive(Strong Protection): A suggestive mark does not immediately describe the products or its features, but may suggest or allude to them.
 
- <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/suggestive%20trademark.jpg?raw=true" width="350" height="200">    <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/suggestive%20trademark2.jpg?raw=true" width="400" height="200"> 
+  <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/suggestive%20trademark2.jpg?raw=true" width="400" height="200"> 
 
 * Descriptive(Limited Protection): Marks thats describe a product, its characteristics, its elements or its qualities. People may be tempted to pick a brand name that descibes their company's game beacuse it will be easy for the costumers unerstant what the game is about, but that will allow the comptetidores to sell competing products with similar names.
 
-<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/descriptive%20trademark.jpg?raw=true" width="600" height="300">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/descriptive%20trademark.jpg?raw=true" width="800" height="200">
 
 * Generic(No Protection): The term generic is the opposite of trademark and a generic term can never be converted as a trademark.
 
