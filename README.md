@@ -43,11 +43,19 @@ In general there are two types of IP:
   
 #### Ways to keep safe your own IP
 ##### Copyright
-Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. It is an automatic right which give the creator of an original "fixed" work exclusives rights to its use and distribution, with the intention of enabling the creator of intellectual wealth to recive compensation for their work.
+Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. 
+Is the only type of IP, that can exist without a regsitration. As soon as plans are down or code is written, copyright is present. 
+
+Even though registration is not necessary to invoke copyright, it is highliy recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
+
 
 ##### What can be protected with copyright?
-##### What rights are conferred by copyright?
 
+
+##### What rights are conferred by copyright?
+It gives the holder the right to authorize others to reproduce a work or prevent them from doing so. 
+We must keep in mind, that the major part of videogames are ordered by comapnyies and created either by their employees or by outsorced workers. In this cases, the authorship of the copyright depends on the contract and each individual case. 
+In most cases, these rights belong to the company that ordered the work, but the acutal authors may benefit from some rights, which can go from simply be mentioned in the final work to allowing these authors to remove the work from the public, compensating the copyright owner. you
 
 ##### Trademark
 
