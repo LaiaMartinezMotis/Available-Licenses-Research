@@ -62,10 +62,24 @@ We must keep in mind, that the major part of videogames are ordered by comapnyie
 In most cases, these rights belong to the company that ordered the work, but the acutal authors may benefit from some rights, which can go from simply be mentioned in the final work to allowing these authors to remove the work from the public, compensating the copyright owner. you
 
 ##### Trademark
+We can define a trademark as the legal protection of a distinctive sing used in the the commerce to identifiy goods or/and sevices. This sign can be a word, sound, name, symbol, graphic, short phrase... A successful trademark is one that allows consumers to instantly recognize the company and its products when they see the mark.
 
-Trademark focuses on pushing information out in public. A successful trademark is one that allows consumers to instantly recognize the company and its products when they see the mark.
-They are considerated, the second most important IP after copyright, since they can set a company and its games a apart from others in the mind of consumers.
+##### Why are they important?
+There are a lot of benefits that come along when you trademark your signs.
 
-##### What can be trademarked?
-A Trademark can be a word, name, symbol, graphic or short phrase.
+Trademark focuses on pushing information out in public in order to get brand recognition and association with a particular company. They are considerated, the second most important IP after copyright, since they can set a company and its games a apart from others in the mind of consumers.
+Another important function of trademarks is to allow the consumers determine the quality of the goods or services, depending on the prestige or notoriety of the trademark.
+
+As I said, owning a trademark allows you to build brand recognition because consumers associate your sign with your games, but most important, it's a way to protect customers from buying goods or services that aren’t what they expected.
+
+That’s a problem that trademark law seeks to avoid.
+
+##### Trandmark categories?
+We divide trademarks in 5 diferent categories, depending of what you want to reflect with your mark.
+
+* Fanciful (Strongest Protection): Unique made-up names with no meaning other that the meaning a company associates with them. These are the strongest trademarks you can get.
+* Arbitraty (Strongest Protection): Consist of common words or terms used for something other that its literal meaning.
+* Suggestive(Strong Protection): A suggestive mark does not immediately describe the products or its features, but may suggest or allude to them.
+* Descriptive(Limited Protection): Marks thats describe a product, its characteristics, its elements or its qualities. People may be tempted to pick a brand name that descibes their company's game beacuse it will be easy for the costumers unerstant what the game is about, but that will allow the comptetidores to sell competing products with similar names.
+* Generic(No Protection): The term generic is the opposite of trademark and a generic term can never be converted as a trademark.
 
