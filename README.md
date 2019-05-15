@@ -186,6 +186,9 @@ If you are the owner of an Intellectual Propierty (IP), you could grants rights 
 This agreement occurs between an IP rights owner ("licensor"), and someone who is autthorised to use the rights ("licensee") in exchange for monetary value.
 The two parties agree on the terms and conditions via negotiation.
 
+##### Licensing out of your IP
+
+
 #### Free Software Licenses
 #### What are they?
 Is a form that grants the recipient of a piece of software, extensive rights to modify and redustribute that software. These actions are normally prohibited by copyright laws, but whoever owns the rights, usually.
