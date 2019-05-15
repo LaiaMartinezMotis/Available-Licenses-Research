@@ -181,8 +181,10 @@ In situations of dishonest behaviour, you are entitled to damages and other reme
 #### Licensing IPs
 
 ##### What is an IP licensing agreement?
-An Ip licensing agreement occurs between an IP rights owner ("licensor"), and someone who is autthorised to use the rights ("licensee") in exchange for monetary value.
-The two parties agree on the terms and conditions via negotiation, and 
+If you are the owner of an Intellectual Propierty (IP), you could grants rights of use to an other legal person. This is known as "licencing you IP". You could also generate revenue by selling it, which is know as "assigning" or "transferring" you IP.
+
+This agreement occurs between an IP rights owner ("licensor"), and someone who is autthorised to use the rights ("licensee") in exchange for monetary value.
+The two parties agree on the terms and conditions via negotiation.
 
 #### Free Software Licenses
 #### What are they?
