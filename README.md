@@ -183,11 +183,38 @@ In situations of dishonest behaviour, you are entitled to damages and other reme
 ##### What is an IP licensing agreement?
 If you are the owner of an Intellectual Propierty (IP), you could grants rights of use to an other legal person. This is known as "licencing you IP". You could also generate revenue by selling it, which is know as "assigning" or "transferring" you IP.
 
-This agreement occurs between an IP rights owner ("licensor"), and someone who is autthorised to use the rights ("licensee") in exchange for monetary value.
-The two parties agree on the terms and conditions via negotiation.
-
 ##### Licensing out of your IP
+This agreement occurs between an IP rights owner ("licensor"), and someone who is autthorised to use the rights ("licensee"). In exchange, you (the licensor) get paid for giving permissions, tipically in the form of "royalties" defined as percentage of the sales. 
 
+As you are the owner, you can also set the limits of the use of the IP.
+* Keep your right over the IP, which means that there is no transfer of ownership.
+* Remain responsable for the maintenance of the IP rights concerned.
+
+##### How do you establish a licensing agreement?
+You should at least:
+* Put the agreement in writing
+* Clarify which IP rights exactly are concerned
+* Communicate the starting date, and termination of the contract
+* Negotiate and mention in the agreement the financial compensation to be paid by the licensee to the licensor
+* State the exclusivity or non-exclusivity for the use of your IP
+* Mention all the conditions for the use of your IP
+* Define in which territories the licensee can use your IP
+
+##### Assignments: Selling your patents, trademarks and other IP
+Licensing is not the only thing you can do as an IP owner. You can tranfer the ownership of your IP rights by assigning/transferring it.
+With an IP assigment, you transfer all the rights you initially possessed for the piece of intellectual property concerned.
+
+When the IP assignment is finalised, you will have no further responsibility for that IP (such as paying renewal fees), nor will you benefit from any possible commercial success of the product or service concerned.
+
+In addition, unless this is explicitly allowed in the assignment contract, you will not be able to further use the IP concerned (invention, trade mark, etc.), as long as it is protected.
+
+##### How do you settle an IP assignment?
+* Draft a written assignment, which you and the assignee must sign.
+* Clearly specify and identify the IP that you want to transfer, for example indicating the registration number (if it is a registered IP).
+* Negotiate and mention in the agreement the financial compensation to be paid by the assignee to you.
+* Discuss possible warranties for specific details and include them in the agreement.
+* Specify which law should be used to interpret the contract (for example, the law of your EU country) and the jurisdiction for any possible dispute settlement, whether an arbitration panel or a local court.
+* Make sure you register the assignment at the relevant IP office if it is a legal requirement.
 
 #### Free Software Licenses
 #### What are they?
