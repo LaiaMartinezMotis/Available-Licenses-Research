@@ -87,6 +87,10 @@ As I said, owning a trademark allows you to build brand recognition because cons
 
 That’s a problem that trademark law seeks to avoid.
 
+<p align="center">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/2048%20trademark.jpg?raw=true" width="800" height="350">   
+</p>
+
 ##### Trandmark categories:
 We divide trademarks in 5 diferent categories, depending of what you want to reflect with your mark.
 
@@ -136,13 +140,17 @@ A patent protects new inventions and covers how things work, what they do, how t
 
 Registering a patent gives you exclusive rights over your invention for a limited period, normally 20 years. Other people cannot make, use, offer for sale, sell or import a product or a process based on your patented invention. You can give someone else temporary permission to use the invention through a patent license agreement or sell the patent to someone else. You cannot renew a patent after it expires.
 
-###### What can I do with it?
+<p align="center">
+  <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/Dessin_-_01_medium.jpg?raw=true" width="400" height="300"> 
+  </p>
+
+##### What can I do with it?
 Patents allow you to:
 * Sell the invention and associated intellectual property rights.
 * License the invention to someone else, but retain ownership and certain rights in the IP.
 * Discuss the invention with others in order to set up a bussines based around the invention.
 
-###### How you register a patent?
+##### How you register a patent?
 
 If you need protection in only one European country, you can register a patent at national level. Check which local patent office  to contact.
 For European-wide protection, you can register a European patent with the European Patent Office (EPO). A European patent also needs to be validated by the national patent office in each country where protection is required. Depending on the country's law, you may have to provide translations or pay fees by a certain date.
