@@ -35,7 +35,14 @@ When we talk about IP, we refer to a group of legal rights that provide protecti
 
 The main purpose of the IP laws is to protect developers and their creative work, from pirates and competitors who want to take their work and use it without any compensation.
 IP rights are associated both with the tools used to develop games and the content included in a game.
-  
+
+Even though registration is not necessary to invoke copyright, it is highly recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
+
+ <p align="center">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/Copyright-Symbol-Transparent-Images.png?raw=true" width="250" height="250">   
+</p>
+
+
 #### Ways to keep safe your own IP
 ##### What is copyright?
 Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. 
