@@ -41,7 +41,7 @@ IP rights are associated both with the tools used to develop games and the conte
 Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. 
 Is the only type of IP, that can exist without a registration. As soon as plans are down or code is written, copyright is present. 
 
-Even though registration is not necessary to invoke copyright, it is highly recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
+
 
 
 
