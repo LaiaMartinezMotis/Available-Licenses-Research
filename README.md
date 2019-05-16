@@ -236,16 +236,37 @@ Depending on which license ypu have choosed to use
 ##### Different types of Free Software Licenses
 As part of my research, I have search for different types of FSL that could help you in your future developments.
 
-* GNU General Public License
+* GNU General Public License v3.0
 
+There are some conditions that the user must complete, in order to use the license: 
+
+                   * Copies of the original software or instructions  to obtains copies of it must be distributed with the                        software.
+                   * A copy of the license and a copyright notice must be included with the software. 
+                   * Changes made to the code must be documented.
+                   
+Apache gives the user permissions of:
+
+                   * This software and derivative may be used for commercial purposes.
+                   * Modification.
+                   * Distribution of original or modified (derivative) works.
+                   * Patent use.
+                   * Private freely use/modification of the software without distributing it.
+                   
+As all free software licenses, there are some limitations on what can or cannot do, in this case:
+
+                   * GLP v3.0,  includes a limitation of Liability
+                   * GLP v3.0, explicit states that it does NOT grant trademark rights.
+                   * GLP v3.0, explicitly states that it does NOT provide any warranty.
 
 * MIT License
 As a permissive license it puts very limited restirictions on reuse, and has an excellent license compatibility.
 The user will be able to use MIT license if:
 There are some conditions that the user must complete, in order to use the license: 
+
                    * A copy of the license and a copyright notice must be included with the software. 
                    
 MIT gives the user permissions of:
+
                    * This software and derivative may be used for commercial purposes.
                    * Modification
                    * Distribution of compiled code and/or source.
@@ -253,6 +274,7 @@ MIT gives the user permissions of:
                    * Private freely use/modification of the software without distributing it
 
 As all free software licenses, there are some limitations on what can or cannot do, in this case:
+
                    * MIT includes a limitation of Liability
                    * MIT, explicitly states that it does NOT provide any warranty.
                    
@@ -263,10 +285,12 @@ Another positive point of this license is that is also compatible with many copy
 Free Software License created by Apache Software Fundation.
 
 There are some conditions that the user must complete, in order to use the license: 
+
                    * A copy of the license and a copyright notice must be included with the software. 
                    * Changes made to the code must be documented.
                    
 Apache gives the user permissions of:
+
                    * This software and derivative may be used for commercial purposes.
                    * Modification.
                    * Distribution of original or modified (derivative) works.
@@ -274,6 +298,7 @@ Apache gives the user permissions of:
                    * Private freely use/modification of the software without distributing it.
                    
 As all free software licenses, there are some limitations on what can or cannot do, in this case:
+
                    * Apache includes a limitation of Liability
                    * Apache, explicit states that it does NOT grant trademark rights.
                    * Apache, explicitly states that it does NOT provide any warranty.
