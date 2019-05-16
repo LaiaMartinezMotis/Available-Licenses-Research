@@ -43,6 +43,9 @@ Is the only type of IP, that can exist without a registration. As soon as plans 
 
 Even though registration is not necessary to invoke copyright, it is highly recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
 
+<p align="center">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/copyright-png-5a369bbe9fd560.3555988515135282546547.jpg?raw=true" width="300" height="250">   
+</p>
 
 ##### What can be protected by copyright?
 
@@ -122,6 +125,10 @@ We divide trademarks in 5 diferent categories, depending of what you want to ref
 
 * Generic(No Protection): The term generic is the opposite of trademark and a generic term can never be converted as a trademark.
 
+<p align="center">
+  <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/brand.gif?raw=true" width="300" height="200"> 
+  </p>
+
 ##### How long can you protect your trade mark for?
 
 In most countries, trade mark protection lasts 10 years, starting from the date of your trademark application. You can then renew your trademark protection for 10 years each time, for as long as you like. When you own a trademark, you can sell it to someone else or give them permission to use it through a trademark licensing agreement.
@@ -157,6 +164,10 @@ For European-wide protection, you can register a European patent with the Europe
 ##### Trade Secret
 Trade secrets can be a company’s most valuable IP asset, differentiating it from its competitors.
 It is generally defined as confidentially or closely held information which can take the form of unpatented inventions, formular, designs.... In other words, it is something a business would not want the competition to know.
+
+<p align="center">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/protectionoftradesecretsunderindianlaw_9611085411.jpg?raw=true" width="300" height="250">   
+</p>
 
 ##### What Can Be a Trade Secret?
 Any idea can be trade secretd as long as it is an idea that confers some business advantage and can be kept scret. Trade secret rights can extend to virtually any concrete information that grants a business advantage, such as formulae, data copilations, devices, process and costumers lists. 
@@ -194,6 +205,10 @@ You should at least:
 * Mention all the conditions for the use of your IP
 * Define in which territories the licensee can use your IP
 
+<p align="center">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/IP-licensing.jpg?raw=true"300" height="250">   
+</p>
+
 ##### Assignments: Selling your patents, trademarks and other IP
 Licensing is not the only thing you can do as an IP owner. You can tranfer the ownership of your IP rights by assigning/transferring it.
 With an IP assigment, you transfer all the rights you initially possessed for the piece of intellectual property concerned.
@@ -220,24 +235,25 @@ As part of my research, I have search for different types of FSL that could help
 
 GNU General Public License v3.0
 
-There are some conditions that the user must complete, in order to use the license: 
+To use this strong copyleft license you have to accept its conditions:
+    * Source code must be made available when the software is distributed.
+    * A copy of the license and copyright notice must be included with the software.
+    * Modifications must be released under the same license when distributing the software. 
+    * Changes made to the code must be documented.
 
-   * Copies of the original software or instructions  to obtains copies of it must be distributed with the                              software.
-   * A copy of the license and a copyright notice must be included with the software. 
-   * Changes made to the code must be documented.
                    
 GPL gives the user permissions of:
 
    * This software and derivative may be used for commercial purposes.
    * Modification.
    * Distribution of original or modified (derivative) works.
-   * Patent use.
+   * To incorporate the work into something that has a more restrictive license.
    * Private freely use/modification of the software without distributing it.
+   * Provides an express grant of patent rights from contributors
                    
 As all free software licenses, there are some limitations on what can or cannot do, in this case:
 
    * GLP v3.0,  includes a limitation of Liability
-   * GLP v3.0, explicit states that it does NOT grant trademark rights.
    * GLP v3.0, explicitly states that it does NOT provide any warranty.
    
    <p align="center">
@@ -300,3 +316,17 @@ As all free software licenses, there are some limitations on what can or cannot 
    <p align="center">
   <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/apache.png?raw=true" width="400" height="200"> 
   </p>
+  
+  
+  #### More Documentation
+  
+ [IP](https://www.wipo.int/edocs/pubdocs/en/copyright/959/wipo_pub_959.pdf)
+ [Video Games and IP](https://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html)
+ [Trademarks](https://strebecklaw.com/protect-video-game-trademark/)
+ [Licenses](https://choosealicense.com/licenses/)
+ [Licensing and selling intellectual property](https://europa.eu/youreurope/business/running-business/intellectual-property/licensing-selling/index_en.htm)
+ (GNU)[https://www.gnu.org/licenses/gpl-faq.html#WhyUseGPL]
+ 
+ 
+  
+ 
