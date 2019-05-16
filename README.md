@@ -44,7 +44,7 @@ Is the only type of IP, that can exist without a registration. As soon as plans 
 Even though registration is not necessary to invoke copyright, it is highly recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
 
 <p align="center">
-<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/Copyright-Symbol-Transparent-Images.png?raw=true"300" height="250">   
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/Copyright-Symbol-Transparent-Images.png?raw=true"300" height="200">   
 </p>
 
 ##### What can be protected by copyright?
