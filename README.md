@@ -38,18 +38,13 @@ IP rights are associated both with the tools used to develop games and the conte
 
 Even though registration is not necessary to invoke copyright, it is highly recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
 
- <p align="center">
-<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/Copyright-Symbol-Transparent-Images.png?raw=true" width="250" height="250">   
-</p>
-
 
 #### Ways to keep safe your own IP
+
+##### Copyright
 ##### What is copyright?
 Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. 
 Is the only type of IP, that can exist without a registration. As soon as plans are down or code is written, copyright is present. 
-
-
-
 
 
 ##### What can be protected by copyright?
@@ -59,11 +54,15 @@ Is the only type of IP, that can exist without a registration. As soon as plans 
 * Works of musical compositions: all the sound design in the game. This includes the soundtracks and sound effects.
 * Graphic works/ drawings: the sketches, conceptual art and other graphics designed for a game.
 
+ <p align="center">
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/Copyright-Symbol-Transparent-Images.png?raw=true" width="250" height="250">   
+</p>
+
 ##### What rights are conferred by copyright?
 It gives the holder the right to authorize others to reproduce a work or prevent them from doing so. 
-We must keep in mind, that the major part of video games are ordered by comapnies and created either by their employees or by outsourced workers. In this cases, the authorship of the copyright depends on the contract and each individual case. 
+We must keep in mind, that the major part of video games are ordered by companies and created either by their employees or by outsourced workers. In this cases, the authorship of the copyright depends on the contract and each individual case. 
 
-In most cases, these rights belong to the company that ordered the work, but the actual authors may benefit from some rights, which can go from simply be mentioned in the final work of allowing these authors to remove the work from the public, compensating the copyright owner. you
+In most cases, these rights belong to the company that ordered the work, but the actual authors may benefit from some rights, which can go from simply be mentioned in the final work of allowing these authors to remove the work from the public, compensating the copyright owner. 
 
 Copyright protection grants you the following exclusive rights:
 
@@ -82,7 +81,7 @@ However, you may need to advise other people that you are the author of that wor
 
 
 ##### Trademark
-We can define a trademark as the legal protection of a distinctive sing used in the commerce to identify goods or/and services. This sign can be a word, sound, name, symbol, graphic, short phrase... A successful trademark is one that allows consumers to instantly recognize the company and its products when they see the mark.
+We can define a trademark as the legal protection of a distinctive sign used in the commerce to identify goods or/and services. This sign can be a word, sound, name, symbol, graphic, short phrase... A successful trademark is one that allows consumers to instantly recognize the company and its products when they see the mark.
 
 
 ##### Why are they important?
