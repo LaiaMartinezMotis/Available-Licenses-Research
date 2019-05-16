@@ -43,7 +43,7 @@ Here I am going to talk about the legal aspects surrounding the development of a
      
      
 #### What is an IP (Intellectual Property)?
-When we talk about IP, we refere to a group of legal rights that provide protections over the things people create or invent, such as literary and artistic works, designs, symbols, names...
+When we talk about IP, we refer to a group of legal rights that provide protections over the things people create or invent, such as literary and artistic works, designs, symbols, names...
 
 <p align="center">
 <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/IntellectualProperty-300x200.jpg?raw=true" width="500" height="250">   
@@ -57,28 +57,28 @@ IP rights are associated both with the tools used to develop games and the conte
 #### Ways to keep safe your own IP
 ##### What is copyright?
 Copyright is considered the most important IP protection for most of game companies, because of its ease of use, power and versatility. 
-Is the only type of IP, that can exist without a regsitration. As soon as plans are down or code is written, copyright is present. 
+Is the only type of IP, that can exist without a registration. As soon as plans are down or code is written, copyright is present. 
 
-Even though registration is not necessary to invoke copyright, it is highliy recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
+Even though registration is not necessary to invoke copyright, it is highly recommended as it serves as proof of authorship and that the work existed at a given date, in case of a copyright dispute.
 
 
 ##### What can be protected by copyright?
 
 * Written works: the scrips of the story, the conversations between the characters and the source code of the game.
-* Video graphic works: the game grephics and in the so-called cut scenes.
+* Video graphic works: the game graphics and in the so-called cut scenes.
 * Works of musical compositions: all the sound design in the game. This includes the soundtracks and sound effects.
 * Graphic works/ drawings: the sketches, conceptual art and other graphics designed for a game.
 
 ##### What rights are conferred by copyright?
 It gives the holder the right to authorize others to reproduce a work or prevent them from doing so. 
-We must keep in mind, that the major part of videogames are ordered by comapnyies and created either by their employees or by outsorced workers. In this cases, the authorship of the copyright depends on the contract and each individual case. 
+We must keep in mind, that the major part of video games are ordered by comapnies and created either by their employees or by outsourced workers. In this cases, the authorship of the copyright depends on the contract and each individual case. 
 
-In most cases, these rights belong to the company that ordered the work, but the acutal authors may benefit from some rights, which can go from simply be mentioned in the final work to allowing these authors to remove the work from the public, compensating the copyright owner. you
+In most cases, these rights belong to the company that ordered the work, but the actual authors may benefit from some rights, which can go from simply be mentioned in the final work of allowing these authors to remove the work from the public, compensating the copyright owner. you
 
 Copyright protection grants you the following exclusive rights:
 
-* Economic rights – guaranteeing you have control over your work and remuneration for its use through selling or licensing
-* Moral rights – usually protecting your rights to claim authorship (right of attribution) and to refuse a modification of your work (right of integrity)
+* Economic rights: guaranteeing you have control over your work and remuneration for its use through selling or licensing
+* Moral rights: usually protecting your rights to claim authorship (right of attribution) and to refuse a modification of your work (right of integrity)
 
 ##### How long lasts copyright?
 When you create an original literary, scientific and artistic work, such as poems, articles, films, songs or sculptures, you are protected by copyright. Nobody apart from you has the right to make the work public or reproduce it.
@@ -92,15 +92,17 @@ However, you may need to advise other people that you are the author of that wor
 
 
 ##### Trademark
-We can define a trademark as the legal protection of a distinctive sing used in the the commerce to identifiy goods or/and sevices. This sign can be a word, sound, name, symbol, graphic, short phrase... A successful trademark is one that allows consumers to instantly recognize the company and its products when they see the mark.
+We can define a trademark as the legal protection of a distinctive sing used in the commerce to identify goods or/and services. This sign can be a word, sound, name, symbol, graphic, short phrase... A successful trademark is one that allows consumers to instantly recognize the company and its products when they see the mark.
+
 
 ##### Why are they important?
 There are a lot of benefits that come along when you trademark your signs.
 
-Trademark focuses on pushing information out in public in order to get brand recognition and association with a particular company. They are considerated, the second most important IP after copyright, since they can set a company and its games a apart from others in the mind of consumers.
-Another important function of trademarks is to allow the consumers determine the quality of the goods or services, depending on the prestige or notoriety of the trademark.
+Trademark focuses on pushing information out in public in order to get brand recognition and association with a particular company. They are considered, the second most important IP after copyright, since they can set a company and its games a apart from others in the mind of consumers.
 
-As I said, owning a trademark allows you to build brand recognition because consumers associate your sign with your games, but most important, it's a way to protect customers from buying goods or services that aren’t what they expected.
+Another important function of trademarks is to allow the consumers to determine the quality of the goods or services, depending on the prestige or the notoriety of the trademark.
+
+As I said, owning a trademark allows you to build a brand recognition because consumers associate your sign with your games, but most importantly, it's a way to protect customers from buying goods or services that aren’t what they expected.
 
 That’s a problem that trademark law seeks to avoid.
 
@@ -131,7 +133,7 @@ We divide trademarks in 5 diferent categories, depending of what you want to ref
   </p>
 
 
-* Descriptive(Limited Protection): Marks thats describe a product, its characteristics, its elements or its qualities. People may be tempted to pick a brand name that descibes their company's game beacuse it will be easy for the costumers unerstant what the game is about, but that will allow the comptetidores to sell competing products with similar names.
+* Descriptive(Limited Protection): Marks thats describe a product, its characteristics, its elements or its qualities. People may be tempted to pick a brand name that descibes their company's game beacuse it will be easy for the costumers understand what the game is about, but that will allow the competitors to sell competing products with similar names.
 
 <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/descriptive%20trademark.jpg?raw=true" width="800" height="200">
 
@@ -140,20 +142,16 @@ We divide trademarks in 5 diferent categories, depending of what you want to ref
 
 ##### How long can you protect your trade mark for?
 
-In most countries, trade mark protection lasts 10 years, starting from the date of your trade mark application. You can then renew your trade mark protection for 10 years each time, for as long as you like. When you own a trade mark, you can sell it to someone else or give them permission to use it through a trade mark licensing agreement.
+In most countries, trade mark protection lasts 10 years, starting from the date of your trademark application. You can then renew your trademark protection for 10 years each time, for as long as you like. When you own a trademark, you can sell it to someone else or give them permission to use it through a trademark licensing agreement.
 
 ##### How you register a trade mark?
 
-* If you only trade in one EU country, you will only need protection in that country. In this case, you can register a trade mark at national level. Contact your national office.
+* If you need protection in all EU countries, you should register your trademark with the European Union Intellectual Property Rights Office (EUIPO). For more details on trade marks in the EU, check the trademark page of the EUIPO.
 
-* If you only trade in Belgium, the Netherlands or Luxemburg, you should register your trade mark at the Benelux Office for Intellectual Property (BOIP). This gives you protection in these three countries.
-
-* If you need protection in all EU countries, you should register your trademark with the European Union Intellectual Property Rights Office (EUIPO). For more details on trade marks in the EU, check the trade mark page of the EUIPO.
-
-* For international protection, in particular if you trade outside the EU, you can register your trade mark with the World Intellectual Property Organisation (WIPO).
+* For international protection, in particular if you trade outside the EU, you can register your trademark with the World Intellectual Property Organization (WIPO).
 
 ##### Patents
-A patent protects new inventions and covers how things work, what they do, how they do it, what they are made of and how are they made, A patent gives you the ability to take legal action to try to stop others from copying, manufacturing, selling adn imporing your invention without your permissions.
+A patent protects new inventions and covers how things work, what they do, how they do it, what they are made of and how are they made, A patent gives you the ability to take legal action to try to stop others from copying, manufacturing, selling and importing your invention without your permissions.
 
 Registering a patent gives you exclusive rights over your invention for a limited period, normally 20 years. Other people cannot make, use, offer for sale, sell or import a product or a process based on your patented invention. You can give someone else temporary permission to use the invention through a patent license agreement or sell the patent to someone else. You cannot renew a patent after it expires.
 
@@ -240,43 +238,43 @@ As part of my research, I have search for different types of FSL that could help
 
 There are some conditions that the user must complete, in order to use the license: 
 
-                   * Copies of the original software or instructions  to obtains copies of it must be distributed with the                        software.
-                   * A copy of the license and a copyright notice must be included with the software. 
-                   * Changes made to the code must be documented.
+   * Copies of the original software or instructions  to obtains copies of it must be distributed with the                              software.
+   * A copy of the license and a copyright notice must be included with the software. 
+   * Changes made to the code must be documented.
                    
-Apache gives the user permissions of:
+GPL gives the user permissions of:
 
-                   * This software and derivative may be used for commercial purposes.
-                   * Modification.
-                   * Distribution of original or modified (derivative) works.
-                   * Patent use.
-                   * Private freely use/modification of the software without distributing it.
+   * This software and derivative may be used for commercial purposes.
+   * Modification.
+   * Distribution of original or modified (derivative) works.
+   * Patent use.
+   * Private freely use/modification of the software without distributing it.
                    
 As all free software licenses, there are some limitations on what can or cannot do, in this case:
 
-                   * GLP v3.0,  includes a limitation of Liability
-                   * GLP v3.0, explicit states that it does NOT grant trademark rights.
-                   * GLP v3.0, explicitly states that it does NOT provide any warranty.
+   * GLP v3.0,  includes a limitation of Liability
+   * GLP v3.0, explicit states that it does NOT grant trademark rights.
+   * GLP v3.0, explicitly states that it does NOT provide any warranty.
 
 * MIT License
 As a permissive license it puts very limited restirictions on reuse, and has an excellent license compatibility.
 The user will be able to use MIT license if:
 There are some conditions that the user must complete, in order to use the license: 
 
-                   * A copy of the license and a copyright notice must be included with the software. 
+   * A copy of the license and a copyright notice must be included with the software. 
                    
 MIT gives the user permissions of:
 
-                   * This software and derivative may be used for commercial purposes.
-                   * Modification
-                   * Distribution of compiled code and/or source.
-                   * To incorporate the work into something that has a more restrictive license.
-                   * Private freely use/modification of the software without distributing it
+   * This software and derivative may be used for commercial purposes.
+   * Modification
+   * Distribution of compiled code and/or source.
+   * To incorporate the work into something that has a more restrictive license.
+   * Private freely use/modification of the software without distributing it
 
 As all free software licenses, there are some limitations on what can or cannot do, in this case:
 
-                   * MIT includes a limitation of Liability
-                   * MIT, explicitly states that it does NOT provide any warranty.
+   * MIT includes a limitation of Liability
+   * MIT, explicitly states that it does NOT provide any warranty.
                    
 Another positive point of this license is that is also compatible with many copyleft licenses such as GNU General Public License (GPL); and it can be integrated into GPL software but not the only way around.
                   
@@ -286,20 +284,21 @@ Free Software License created by Apache Software Fundation.
 
 There are some conditions that the user must complete, in order to use the license: 
 
-                   * A copy of the license and a copyright notice must be included with the software. 
-                   * Changes made to the code must be documented.
+   * A copy of the license and a copyright notice must be included with the software. 
+   * Changes made to the code must be documented.
                    
 Apache gives the user permissions of:
 
-                   * This software and derivative may be used for commercial purposes.
-                   * Modification.
-                   * Distribution of original or modified (derivative) works.
-                   * Patent use.
-                   * Private freely use/modification of the software without distributing it.
+   * This software and derivative may be used for commercial purposes.
+   * Modification.
+   * Distribution of original or modified (derivative) works.
+   * Patent use.
+   * Private freely use/modification of the software without distributing it.
                    
 As all free software licenses, there are some limitations on what can or cannot do, in this case:
 
-                   * Apache includes a limitation of Liability
-                   * Apache, explicit states that it does NOT grant trademark rights.
-                   * Apache, explicitly states that it does NOT provide any warranty.
+   * Apache includes a limitation of Liability
+   * Apache, explicit states that it does NOT grant trademark rights.
+   
+   * Apache, explicitly states that it does NOT provide any warranty.
 
