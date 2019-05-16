@@ -146,9 +146,11 @@ In most countries, trade mark protection lasts 10 years, starting from the date 
 
 ##### How you register a trade mark?
 
-* If you need protection in all EU countries, you should register your trademark with the European Union Intellectual Property Rights Office (EUIPO). For more details on trade marks in the EU, check the trademark page of the EUIPO.
+* If you need protection in all EU countries, you should register your trademark with the [European Union Intellectual Property Rights Office (EUIPO)](https://euipo.europa.eu/ohimportal/en/search-availability) 
 
 * For international protection, in particular if you trade outside the EU, you can register your trademark with the World Intellectual Property Organization (WIPO).
+
+* If you need protection in USA countries, you should register your trademark in the [United States Patent and Trademark Office](http://tmsearch.uspto.gov/bin/gate.exe?f=tess&state=4807:g05972.1.1)
 
 ##### Patents
 A patent protects new inventions and covers how things work, what they do, how they do it, what they are made of and how are they made, A patent gives you the ability to take legal action to try to stop others from copying, manufacturing, selling and importing your invention without your permissions.
@@ -234,7 +236,7 @@ Depending on which license ypu have choosed to use
 ##### Different types of Free Software Licenses
 As part of my research, I have search for different types of FSL that could help you in your future developments.
 
-* GNU General Public License v3.0
+GNU General Public License v3.0
 
 There are some conditions that the user must complete, in order to use the license: 
 
@@ -260,7 +262,9 @@ As all free software licenses, there are some limitations on what can or cannot 
   <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/GPLv3_Logo.png?raw=true" width="400" height="200"> 
   </p>
   
-* MIT License
+  
+MIT License
+
 As a permissive license it puts very limited restirictions on reuse, and has an excellent license compatibility.
 The user will be able to use MIT license if:
 There are some conditions that the user must complete, in order to use the license: 
@@ -286,8 +290,10 @@ Another positive point of this license is that is also compatible with many copy
   <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/mit.png?raw=true" width="400" height="200"> 
   </p>
 
-* Apache License v2.0
-Free Software License created by Apache Software Fundation.
+
+Apache License v2.0
+
+Free Software License created by Apache Software Fundation, similar license to the MIT, very permissive and also it has limited restrictions.
 
 There are some conditions that the user must complete, in order to use the license: 
 
