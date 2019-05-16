@@ -321,11 +321,16 @@ As all free software licenses, there are some limitations on what can or cannot 
   #### More Documentation
   
  [IP](https://www.wipo.int/edocs/pubdocs/en/copyright/959/wipo_pub_959.pdf)
+ 
  [Video Games and IP](https://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html)
+ 
  [Trademarks](https://strebecklaw.com/protect-video-game-trademark/)
+ 
  [Licenses](https://choosealicense.com/licenses/)
+ 
  [Licensing and selling intellectual property](https://europa.eu/youreurope/business/running-business/intellectual-property/licensing-selling/index_en.htm)
- (GNU)[https://www.gnu.org/licenses/gpl-faq.html#WhyUseGPL]
+ 
+ [GNU](https://www.gnu.org/licenses/gpl-faq.html#WhyUseGPL)
  
  
   
