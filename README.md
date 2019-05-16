@@ -229,5 +229,52 @@ In addition, unless this is explicitly allowed in the assignment contract, you w
 * Make sure you register the assignment at the relevant IP office if it is a legal requirement.
 
 #### Free Software Licenses
-#### What are they?
+##### What are they?
 Is a form that grants the recipient of a piece of software, extensive rights to modify and redustribute that software. These actions are normally prohibited by copyright laws, but whoever owns the rights, usually.
+Depending on which license ypu have choosed to use
+
+##### Different types of Free Software Licenses
+As part of my research, I have search for different types of FSL that could help you in your future developments.
+
+* GNU General Public License
+
+
+* MIT License
+As a permissive license it puts very limited restirictions on reuse, and has an excellent license compatibility.
+The user will be able to use MIT license if:
+There are some conditions that the user must complete, in order to use the license: 
+                   * A copy of the license and a copyright notice must be included with the software. 
+                   
+MIT gives the user permissions of:
+                   * This software and derivative may be used for commercial purposes.
+                   * Modification
+                   * Distribution of compiled code and/or source.
+                   * To incorporate the work into something that has a more restrictive license.
+                   * Private freely use/modification of the software without distributing it
+
+As all free software licenses, there are some limitations on what can or cannot do, in this case:
+                   * MIT includes a limitation of Liability
+                   * MIT, explicitly states that it does NOT provide any warranty.
+                   
+Another positive point of this license is that is also compatible with many copyleft licenses such as GNU General Public License (GPL); and it can be integrated into GPL software but not the only way around.
+                  
+ 
+* Apache License v2.0
+Free Software License created by Apache Software Fundation.
+
+There are some conditions that the user must complete, in order to use the license: 
+                   * A copy of the license and a copyright notice must be included with the software. 
+                   * Changes made to the code must be documented.
+                   
+Apache gives the user permissions of:
+                   * This software and derivative may be used for commercial purposes.
+                   * Modification.
+                   * Distribution of original or modified (derivative) works.
+                   * Patent use.
+                   * Private freely use/modification of the software without distributing it.
+                   
+As all free software licenses, there are some limitations on what can or cannot do, in this case:
+                   * Apache includes a limitation of Liability
+                   * Apache, explicit states that it does NOT grant trademark rights.
+                   * Apache, explicitly states that it does NOT provide any warranty.
+
