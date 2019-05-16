@@ -14,28 +14,10 @@ Here I am going to talk about the legal aspects surrounding the development of a
 
 - [Ways to keep safe your own IP](https://github.com/LaiaMartinezMotis/Available-Licenses-Research#ways-to-keep-safe-your-own-ip)
 
-     - Copyright
-     
-         * What is copyright?
-         * What can be protected by copyright?
-         * What can I do with copyright?
-           
-           
+     - Copyright    
      - Trademark
-         * Why are they important?
-         * Trandmark categories
-         * How long you can protect your trademark for?
-         * How can you register a trademark?
-         
-         
      - Patent
-       * Why can I do with a patent?
-       * How can I register a patent?
-     
      - TradeSecret
-       * What can be a tradesecret?
-       * How tradesecret protection works?
-       
      
 - [Licensing IPs](https://github.com/LaiaMartinezMotis/Available-Licenses-Research#licensing-ips)
 
