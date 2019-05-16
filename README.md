@@ -8,11 +8,11 @@ Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs
 
 Here I am going to talk about the legal aspects surrounding the development of a videogame
 
-- What is an IP (Intellectual Property)?
+- [What is an IP (Intellectual Property)?](https://github.com/LaiaMartinezMotis/Available-Licenses-Research#what-is-an-ip-intellectual-property)
 
      - Importance of IP laws in video games
 
-- Ways to keep safe your own IP
+- [Ways to keep safe your own IP](https://github.com/LaiaMartinezMotis/Available-Licenses-Research#ways-to-keep-safe-your-own-ip)
 
      - Copyright
      
@@ -23,11 +23,23 @@ Here I am going to talk about the legal aspects surrounding the development of a
            
      - Trademark
          * Why are they important?
-         * Trandmark categories:
+         * Trandmark categories
+         * How long you can protect your trademark for?
+         * How can you register a trademark?
+         
+         
      - Patent
-     - TradeSecret
+       * Why can I do with a patent?
+       * How can I register a patent?
      
-- Licensing IPs
+     - TradeSecret
+       * What can be a tradesecret?
+       * How tradesecret protection works?
+       
+     
+- [Licensing IPs](https://github.com/LaiaMartinezMotis/Available-Licenses-Research#licensing-ips)
+
+- [Free Software Licenses](https://github.com/LaiaMartinezMotis/Available-Licenses-Research#free-software-licenses)
      
      
 #### What is an IP (Intellectual Property)?
