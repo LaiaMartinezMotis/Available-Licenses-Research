@@ -255,7 +255,11 @@ As all free software licenses, there are some limitations on what can or cannot 
    * GLP v3.0,  includes a limitation of Liability
    * GLP v3.0, explicit states that it does NOT grant trademark rights.
    * GLP v3.0, explicitly states that it does NOT provide any warranty.
-
+   
+   <p align="center">
+  <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/GPLv3_Logo.png?raw=true" width="400" height="200"> 
+  </p>
+  
 * MIT License
 As a permissive license it puts very limited restirictions on reuse, and has an excellent license compatibility.
 The user will be able to use MIT license if:
@@ -277,8 +281,11 @@ As all free software licenses, there are some limitations on what can or cannot 
    * MIT, explicitly states that it does NOT provide any warranty.
                    
 Another positive point of this license is that is also compatible with many copyleft licenses such as GNU General Public License (GPL); and it can be integrated into GPL software but not the only way around.
-                  
- 
+
+  <p align="center">
+  <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/mit.png?raw=true" width="400" height="200"> 
+  </p>
+
 * Apache License v2.0
 Free Software License created by Apache Software Fundation.
 
@@ -299,6 +306,9 @@ As all free software licenses, there are some limitations on what can or cannot 
 
    * Apache includes a limitation of Liability
    * Apache, explicit states that it does NOT grant trademark rights.
-   
    * Apache, explicitly states that it does NOT provide any warranty.
 
+
+   <p align="center">
+  <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/apache.png?raw=true" width="400" height="200"> 
+  </p>
