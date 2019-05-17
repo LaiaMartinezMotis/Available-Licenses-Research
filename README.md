@@ -322,7 +322,7 @@ As all free software licenses, there are some limitations on what can or cannot 
   </p>
   
   
-  #### More Documentation
+#### More Documentation
   
  [IP](https://www.wipo.int/edocs/pubdocs/en/copyright/959/wipo_pub_959.pdf)
  
