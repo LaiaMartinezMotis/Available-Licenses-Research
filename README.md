@@ -205,12 +205,12 @@ You should at least:
 * Clarify which IP rights exactly are concerned
 * Communicate the starting date, and termination of the contract
 * Negotiate and mention in the agreement the financial compensation to be paid by the licensee to the licensor
-* State the exclusivity or non-exclusivity for the use of your IP
-* Mention all the conditions for the use of your IP
-* Define in which territories the licensee can use your IP
+* State the exclusivity or non-exclusivity for the use of your IP.
+* Mention all the conditions for the use of your IP.
+* Define in which territories the licensee can use your IP.
 
 <p align="center">
-<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/IP-licensing.jpg?raw=true"300" height="250">   
+<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/IP-licensing.jpg?raw=true" width="300" height="250">   
 </p>
 
 ##### Assignments: Selling your patents, trademarks and other IP
@@ -317,7 +317,7 @@ As all free software licenses, there are some limitations on what can or cannot 
    * Apache, explicitly states that it does NOT provide any warranty.
 
 
-   <p align="center">
+  <p align="center">
   <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/apache.png?raw=true" width="400" height="200"> 
   </p>
   
