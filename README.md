@@ -210,9 +210,10 @@ You should at least:
 * Define in which territories the licensee can use your IP.
 
 <p align="center">
-<img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/IP-licensing.jpg?raw=true" width="300" height="250">   
-</p>
+  <img src= "https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/IP-licensing.jpg?raw=true" width="400" height="200"> 
+  </p>
 
+https://github.com/LaiaMartinezMotis/Available-Licenses-Research/blob/master/docs/IP-licensing.jpg?raw=true
 ##### Assignments: Selling your patents, trademarks and other IP
 Licensing is not the only thing you can do as an IP owner. You can tranfer the ownership of your IP rights by assigning/transferring it.
 With an IP assigment, you transfer all the rights you initially possessed for the piece of intellectual property concerned.
